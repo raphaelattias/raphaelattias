@@ -1,4 +1,4 @@
-Hi 👋 My name is Raphael Attias
+Hey, I'm Raphaël 👋 
 ===============================
 
 Machine Learning and Data Science EPFL Master Student
