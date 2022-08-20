@@ -20,6 +20,7 @@ I am a Master Student in Data Science and Machine Learning from EPFL, Switzerlan
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919834.png" width="36" height="36" alt="Scala" /></a>
+   <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" width="36" height="36" alt="Docker" /></a>
 </p>
 
 
