@@ -1,15 +1,15 @@
 Hey, I'm Raphaël 👋 
 ===============================
 
-Machine Learning and Data Science EPFL Master Student
+Software Engineer at Databricks
 -----------------------------------------------------
 
-I am a Master Student in Data Science and Machine Learning from EPFL, Switzerland. Working in the field of Medical Machine Learning, I have done more than 15+ projects using scientific libraries such as Pytorch, Scikit, Tensorflow etc. Starting in September 2022, I am working at Harvard Medical School in the Department of Biomedical Informatics to complete my degree.
+I am a Software Engineer at Databricks. I am doing research at Harvard Medical School in the Yu Lab. I have a BS in Mathematics and MS in Data Science from EPFL. I have done more than 15+ projects using scientific libraries such as Pytorch, Scikit, Tensorflow etc. I have worked in Lausanne, Princeton, Boston, and currently in Amsterdam. 
 
-* 🌍  I'm based in Boston, Massachussets. 
+* 🌍  I'm based in Amsterdam, Netherlands. 
 * 🖥️  See my portfolio at [Raphaël Attias Portfolio](http://raphaelattias.com)
 * ✉️  You can contact me at [raphael.attias@outlook.com](mailto:raphael.attias@outlook.com)
-* 🚀  I'm currently working on [Tumor Detection using Deep Learning at NEC](http://https://raphaelattias.com/posts/2021/12/nec/)
+* 🚀  I'm currently doing research at Harvard on [Uncertainty Estimation for Digital Pathology](http://https://raphaelattias.com/posts/2023/03/harvard/)
 
 ### Skills
 
