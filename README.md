@@ -9,7 +9,7 @@ I am a Software Engineer at Databricks. I am doing research at Harvard Medical S
 * 🌍  I'm based in Amsterdam, Netherlands. 
 * 🖥️  See my portfolio at [Raphaël Attias Portfolio](http://raphaelattias.com)
 * ✉️  You can contact me at [raphael.attias@outlook.com](mailto:raphael.attias@outlook.com)
-* 🚀  I'm currently doing research at Harvard on [Uncertainty Estimation for Digital Pathology](http://https://raphaelattias.com/posts/2023/03/harvard/)
+* 🚀  I'm currently doing research at Harvard on [Uncertainty Estimation for Digital Pathology](https://raphaelattias.com/posts/2023/03/harvard)
 
 ### Skills
 
