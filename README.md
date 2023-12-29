@@ -21,6 +21,7 @@ I am a Software Engineer at Databricks. I am doing research at Harvard Medical S
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919834.png" width="36" height="36" alt="Scala" /></a>
    <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" width="36" height="36" alt="Docker" /></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="36" height="36" alt="ts" /></a>
 </p>
 
 
